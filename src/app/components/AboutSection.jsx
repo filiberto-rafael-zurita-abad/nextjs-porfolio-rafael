@@ -65,7 +65,7 @@ const AboutSection = () => {
             I am an English and Math tutor looking to transition into a career in data and/or web development. 
             I have experience working with Pyhton, PowerBI, SQL and Machine Learning libraries to analyze and predicts 
             trends in data. I am also knowledgeable in web development technologies such as HTML, CSS, JavaScript, 
-            Next.js PostgreSQL, and Git. I am a quick learner and I am always
+            Next.js, PostgreSQL, and Git. I am a quick learner and I am always
             looking to expand my knowledge and skill set.
           </p>
           <div className="flex flex-row justify-start mt-8">
