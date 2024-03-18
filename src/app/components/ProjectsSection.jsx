@@ -32,15 +32,7 @@ const projectsData = [
     gitUrl: "https://app.datacamp.com/workspace/w/d8e33ea4-5e45-4503-9e88-d7b26120227d/edit",
     previewUrl: "https://app.datacamp.com/workspace/w/d8e33ea4-5e45-4503-9e88-d7b26120227d/edit",
   },
-  {
-    id: 4,
-    title: "Porfolio Website - Next.js",
-    description: "Dynamic Next.js Website with Tailwind CSS",
-    image: "/images/projects/4.png",
-    tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
-  },
+  
   
 ];
 

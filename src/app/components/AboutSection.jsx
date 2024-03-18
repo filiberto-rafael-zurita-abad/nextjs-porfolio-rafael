@@ -11,7 +11,7 @@ const TAB_DATA = [
       <div className="skills-container">
         <li>Python</li>
         <li>PowerBI</li>
-        <li>Machine Learning</li>
+        <li>ML</li>
         <li>Excel</li>
         <li>SQL</li>
         <li>ChatGPT</li>
@@ -27,7 +27,7 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Physics at Universidad Simon Bolivar</li>
+        <li>Physics at Universidad Simon Bolivar (Unfinished)</li>
       </ul>
     ),
   },
