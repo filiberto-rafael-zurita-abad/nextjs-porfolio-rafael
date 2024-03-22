@@ -62,7 +62,7 @@ const AboutSection = () => {
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
             
-            I am an English and Math tutor looking to transition into a career in data and/or web development. 
+            Hello there! My name is Filiberto Rafael Zurita Abad. I am an English and Math tutor looking to transition into a career in data and/or web development. 
             I have experience working with Pyhton, PowerBI, SQL and Machine Learning libraries to analyze and predicts 
             trends in data. I am also knowledgeable in web development technologies such as HTML, CSS, JavaScript, 
             Next.js, PostgreSQL, and Git. I am a quick learner and I am always
