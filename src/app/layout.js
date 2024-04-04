@@ -5,8 +5,8 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Rafael Zurita | Porfolio',
-  description: 'Tutor Transitioning to Data and Web Development',
+  title: 'Filiberto Rafael Zurita Abad | Porfolio',
+  description: 'Tutor Transitioning to Data Analytics and/or Cybersecurity',
   // Other meta tags as needed
   verification: {
     googleSiteVerification: 'vL-pMo5xJB5P3PJHL9ZevQS1ApJOmxOWuhjXvBctgBQ',
