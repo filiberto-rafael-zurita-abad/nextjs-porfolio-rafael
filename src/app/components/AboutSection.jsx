@@ -14,7 +14,7 @@ const TAB_DATA = [
         <li>ML</li>
         <li>Excel</li>
         <li>SQL</li>
-        <li>ChatGPT</li>
+        <li>Linux</li>
         <li>HTML</li>
         <li>CSS</li>
         <li>JavaScript</li>
@@ -27,6 +27,7 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
+        <li>Computer Science at UoPeople (Ongoing)</li>
         <li>Physics at Universidad Simon Bolivar (Unfinished)</li>
       </ul>
     ),
@@ -36,8 +37,9 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>DataCamp Data Scientist</li>
-        <li>Google Data Analytics</li>
+        <li>Google Cybersecurity</li>
+        <li>DataCamp Data Science</li>
+        <li>DataCamp Data Analytics</li>
         <li>Google IT Support</li>
       </ul>
     ),
@@ -62,11 +64,10 @@ const AboutSection = () => {
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
             
-            Hello there! My name is Filiberto Rafael Zurita Abad. I am an English and Math tutor looking to transition into a career in data and/or web development. 
+            Hello there! My name is Filiberto Rafael Zurita Abad. I am an English and Math tutor looking to transition into a career in data and/or cybersecurity. 
             I have experience working with Pyhton, PowerBI, SQL and Machine Learning libraries to analyze and predicts 
-            trends in data. I am also knowledgeable in web development technologies such as HTML, CSS, JavaScript, 
-            Next.js, PostgreSQL, and Git. I am a quick learner and I am always
-            looking to expand my knowledge and skill set.
+            trends in data. I am also knowledgeable in various the fundamental cybersecurity concepts. 
+            I am a quick learner and I am always looking to expand my knowledge and skill set.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton

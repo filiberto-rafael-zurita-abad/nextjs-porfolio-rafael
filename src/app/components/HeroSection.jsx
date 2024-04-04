@@ -24,11 +24,7 @@ const HeroSection = () => {
               sequence={[
                 "Rafael",
                 1000,
-                "Data Scientist",
-                1000,
                 "Data Analyst",
-                1000,
-                "Web Developer",
                 1000,
               ]}
               wrapper="span"
@@ -37,7 +33,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            English Tutor Transitioning to Data Science and/or Web Development
+            English Tutor Transitioning to Cybersecurity and Data Analysis 
           </p>
           <div>
             <Link
